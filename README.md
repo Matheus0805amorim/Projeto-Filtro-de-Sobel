@@ -39,19 +39,3 @@ O resultado será uma visualização com duas imagens:
 - A imagem original com o título **"Imagem Original"**
 - A imagem com bordas detectadas pelo filtro de Sobel com o título **"Filtro de Sobel Aplicado"**
 
-## 🧪 Como executar no Google Colab
-
-1. Acesse [Google Colab](https://colab.research.google.com/).
-2. Crie um novo notebook.
-3. Copie e cole o código fornecido no notebook.
-4. Execute a célula para ver os resultados.
-
-## 🖼️ Exemplo de imagem utilizada
-
-[Link da imagem utilizada](https://upload.wikimedia.org/wikipedia/commons/7/7d/Dog_face.png)
-
-Você pode substituir esse link por qualquer outro link direto para imagem, como `.jpg`, `.png`, etc.
-
----
-
-Desenvolvido como exemplo didático de processamento de imagens com OpenCV.
